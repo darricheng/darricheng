@@ -13,7 +13,7 @@ I am fascinated by how things work under the hood; I explore and read widely to 
 
 - 🖥 Terminal > IDEs & GUIs
 - ⌨ I think Neovim (and Vim in general) is awesome!
-- 🌳 Data Structures & Algorithms > User Interfaces
+- 🌳 Data Manipulation > User Interfaces
 
 <!--
 **darricheng/darricheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

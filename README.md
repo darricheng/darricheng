@@ -5,14 +5,14 @@ I am fascinated by how things work under the hood; I explore and read widely to 
 **General info**
 
 - 👨‍💻 My current main project is a [personal finance app](https://github.com/darricheng/finance-app)
-- 🛠 I'm trying to sharpen my skills with Rust and Go
-- ✍️ I write occasionally at [my website](https://darricheng.com)
+- 🛠 I'm sharpening my skills with Rust and Go
+- ✍️ I write at [my website](https://darricheng.com)
 - 📫 You can reach me on [LinkedIn](https://linkedin.com/in/darric-heng)
 
 **Me and software**
 
 - 🖥 Terminal > IDEs & GUIs
-- ⌨ I think Neovim (and Vim in general) is awesome!
+- ⌨ Neovim (and Vim in general) is AWESOME!
 - 🌳 Data Manipulation > User Interfaces
 
 <!--

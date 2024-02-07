@@ -13,7 +13,7 @@ I am fascinated by how things work under the hood; I explore and read widely to 
 
 - 🖥 Terminal > IDEs & GUIs
 - ⌨ Neovim (and Vim in general) is AWESOME!
-- 🌳 Data Manipulation > User Interfaces
+- 🤔 How does this work under the hood?
 
 <!--
 **darricheng/darricheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

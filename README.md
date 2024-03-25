@@ -4,7 +4,7 @@ I am fascinated by how things work under the hood; I explore and read widely to 
 
 **General info**
 
-- 👨‍💻 My current main project is a [personal finance app](https://github.com/darricheng/finance-app)
+- 👨‍💻 My current main project is an [invoicing app](https://github.com/darricheng/invoicing-app)
 - 🛠 I'm sharpening my skills with Rust and Go
 - ✍️ I write at [my website](https://darricheng.com)
 - 📫 You can reach me on [LinkedIn](https://linkedin.com/in/darric-heng)

@@ -11,7 +11,7 @@ I am fascinated by how things work under the hood; I explore and read widely to 
 
 **Me and software**
 
-- 🖥 Terminal > IDEs & GUIs
+- 🖥 Terminal > GUI
 - ⌨ Neovim (and Vim in general) is AWESOME!
 - 🤔 How does this work under the hood?
 

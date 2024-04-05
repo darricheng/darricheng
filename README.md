@@ -1,19 +1,20 @@
 ### Darric Heng
 
-I am fascinated by how things work under the hood; I explore and read widely to remove as much of the magic as I can from the software we use daily.
+I am fascinated by how things work under the hood; I explore and read widely to remove as much of the magic as I can from the software I use.
 
 **General info**
 
-- 👨‍💻 My current main project is an [invoicing app](https://github.com/darricheng/invoicing-app)
+- 👨‍💻 Professionally, I work mainly with TypeScript
 - 🛠 I'm sharpening my skills with Rust and Go
 - ✍️ I write at [my website](https://darricheng.com)
 - 📫 You can reach me on [LinkedIn](https://linkedin.com/in/darric-heng)
 
 **Me and software**
 
-- 🖥 Terminal > GUI
-- ⌨ Neovim (and Vim in general) is AWESOME!
+- 🖥 Probably hanging out in tmux
+- ⌨ I think Neovim (and Vim in general) is AWESOME!
 - 🤔 How does this work under the hood?
+- ❓ I strive to be language-agnostic, focusing on learning key CS and software concepts instead
 
 <!--
 **darricheng/darricheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

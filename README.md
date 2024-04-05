@@ -14,7 +14,7 @@ I am fascinated by how things work under the hood; I explore and read widely to 
 - 🖥 Probably hanging out in tmux
 - ⌨ I think Neovim (and Vim in general) is AWESOME!
 - 🤔 How does this work under the hood?
-- ❓ I strive to be language-agnostic, focusing on learning key CS and software concepts instead
+- ❓ I strive to be language-agnostic, instead focusing on learning key CS and software concepts
 
 <!--
 **darricheng/darricheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

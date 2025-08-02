@@ -5,7 +5,7 @@ I am fascinated by how things work under the hood; I explore and read widely to 
 **General info**
 
 - 👨‍💻 Professionally, I work mainly with TypeScript
-- 🛠 I'm sharpening my skills with Rust and Go
+- 🛠 I'm sharpening my skills with Rust
 - ✍️ I write at [my website](https://darricheng.com)
 - 📫 You can reach me on [LinkedIn](https://linkedin.com/in/darric-heng)
 
